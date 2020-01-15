@@ -1,0 +1,7 @@
+./bankms/bankmanaging.db
+./image_segment/videos
+./inst_seg/mask-rcnn-coco
+./boston_price/housing.csv
+./painter/.ipynb_checkpoints
+
+.idea
