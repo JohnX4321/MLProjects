@@ -3,5 +3,7 @@
 ./inst_seg/mask-rcnn-coco
 ./boston_price/housing.csv
 ./painter/.ipynb_checkpoints
-
+./aiml_chatbot/bot_mind.brn
+./aiml_chatbot/aiml
+./cat_vs_dog/*
 .idea
